@@ -22,7 +22,7 @@
  
 #include <ESP8266WiFi.h>
 
-// replace with your channel’s thingspeak API key,
+
 String apiKey = ""; //DevID code
 const char* ssid = "***"; //SSID of your router
 const char* password = ""; //WEP/WPA/WPA2 code for router
